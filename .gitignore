@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+# tracker exports hold personal data; keep them out of the repo
+*.json
+HANDOFF.md
